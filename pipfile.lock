@@ -1,0 +1,65 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "f9a7c3bdc9e91457481691afeb555bebd6cf7014e5a849d487c4d20b2af7da7b"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        }
+    },
+    "default": {
+        "click": {
+            "hashes": [
+                "sha256:8c1cfc7d9fe7a3473b8fdf4ab01b2cb16d27f3a21d2f4b7d09f0e8c3f8d373bc",
+                "sha256:7190188c79ac1aa6c8c73f6b6b8e015bbfd501b7a2e9ab3a9b1b37747a5b4bfa"
+            ],
+            "version": "==8.0.1"
+        },
+        "flask": {
+            "hashes": [
+                "sha256:74a3b0e84391e74c6db90fd90b2e6e9f978128b72c4b04c9a3a4e5c1e4f3aa45",
+                "sha256:cf7d3a7ebedbfc624b87a89f3c0e2f6dbdff38e5e4c60a2c5b9a45630525abdd"
+            ],
+            "index": "pypi",
+            "version": "==2.0.1"
+        },
+        "itsdangerous": {
+            "hashes": [
+                "sha256:c5b9d2cdebb69d4b3f9b054b1b0bcd90f053a3a14b05a3f4c8bcb3f0e0b4f25b",
+                "sha256:5b99d71d101dc62d8a25dd991bda2e54db19b5f37c8d4d85892d4bc7fb142dd1"
+            ],
+            "version": "==2.0.1"
+        },
+        "jinja2": {
+            "hashes": [
+                "sha256:08fefa4ab35f3b8d6740a59b198d3b5118a47d519b89af19e9208d64f4dffce0",
+                "sha256:5a8e8fdbc1b7457ed5a9eaf95acdcce7469ea2769af6c0b3460c010dc19bf111"
+            ],
+            "version": "==3.0.1"
+        },
+        "markupsafe": {
+            "hashes": [
+                "sha256:d6b212f6ef27d9b6c48c81edb7869e65b622752283bc4c738dbeb6e4bdb0118e",
+                "sha256:7b0f8ef66f35483fb0a14852bde93e0baf7e2de5cb0fa8ad39f6d0558ea070e7"
+            ],
+            "version": "==2.0.1"
+        },
+        "requests": {
+            "hashes": [
+                "sha256:0a3d6d9e2e2bc5b9b1a2727598d71f2d3d1b6dcb5f084d614d1f762e6b4f75ed",
+                "sha256:b45d6dcfc67a914d73e8e98361f885e4b7e4ae4bb5d29d23ccf0e8be9438e18e"
+            ],
+            "version": "==2.25.1"
+        }
+    },
+    "develop": {
+        "pytest": {
+            "hashes": [
+                "sha256:51ce5a9b38bc457279620bb28c69bb5b3309344ac302a7f393dd3f306d1c7ca7",
+                "sha256:fb5a0d1db08ec455c6d351843c2633a23f7f8d505ec9d3f3d11d1b59e7c8f58d"
+            ],
+            "version": "==6.2.4"
+        }
+    }
+}
