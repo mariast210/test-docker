@@ -10,6 +10,8 @@ COPY package*.json ./
 # Install any needed dependencies
 RUN npm install --production
 
+USER root
+
 # Copy the rest of the application code
 COPY . .
 
